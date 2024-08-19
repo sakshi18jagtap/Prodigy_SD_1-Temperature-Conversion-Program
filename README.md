@@ -1,0 +1,2 @@
+# Prodigy_SD_1-Temperature-Conversion-Program
+The Temperature Converter is a simple web application that allows users to convert temperatures from Celsius to Fahrenheit &amp; Kelvin.It consists of three separate files:HTML:The structure of the converter,including input field &amp; button.CSS:The styling that enhance the visual appearance of the application.JavaScript:The logic that perform conversion.
